@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome",
+    "subtitle": "I'm Alaa Ibrahim",
+    "description": "Accountant and Business Management Professional with experience in administrative work and development",
+    "cta": "Learn More About Me",
+    "stats": {
+      "experience": "Years Experience",
+      "jobs": "Previous Jobs",
+      "degrees": "Academic Degrees",
+      "certificates": "Certificates & Courses"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Graduate of the Faculty of Economics, specializing in Business Administration with experience in administrative work. Started volunteer work in 2017 from an entity affiliated with the Church of Saint Matanius and working on implementing plans and programs aimed at helping young people of different ages such as helping in distributing rations and delivering them to each concerned family.",
+    "personalInfo": {
+      "title": "Personal Information",
+      "birthDate": "Date of Birth",
+      "birthPlace": "Place of Birth",
+      "phone": "Phone Number",
+      "email": "Email",
+      "birthDateValue": "7/7/2002",
+      "birthPlaceValue": "Homs, Bab Al-Sibaa District",
+      "phoneValue": "0930102641",
+      "emailValue": "alaaebrahim772002@gmail.com"
+    }
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "jobs": {
+      "job1": {
+        "title": "Cashier Accountant",
+        "company": "Al-Haram Company",
+        "period": "8/2022 - 1/2024",
+        "description": "Cashier accountant with job transfer during the mentioned period to main treasury accountant. In addition to training people on the company's accounting program before stopping work, reaching 5 people"
+      },
+      "job2": {
+        "title": "Marketing Supervisor and Customer Service",
+        "company": "Delivery Company",
+        "period": "2/2024 - 5/2024",
+        "description": "Marketing supervisor and customer service"
+      },
+      "job3": {
+        "title": "Financial Manager for Homs Department Sales",
+        "company": "Al-Muhtarif Tourism and Travel Company",
+        "period": "5/2024 - 7/2025",
+        "description": "Financial manager for Homs department sales"
+      }
+    }
+  },
+  "education": {
+    "title": "Education",
+    "degrees": {
+      "degree1": {
+        "title": "Bachelor of Business Administration",
+        "institution": "Faculty of Economics - Al-Baath University",
+        "period": "2020 - 2024",
+        "grade": "Very Good"
+      },
+      "degree2": {
+        "title": "High School Diploma",
+        "institution": "Martyr Basil Al-Assad High School",
+        "period": "2020",
+        "grade": "Scientific"
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "technical": {
+      "title": "Technical Skills",
+      "items": [
+        "Microsoft Office (Word, Excel, PowerPoint)",
+        "Accounting Software",
+        "Database Management",
+        "Financial Analysis",
+        "Financial Reporting"
+      ]
+    },
+    "soft": {
+      "title": "Soft Skills",
+      "items": [
+        "Leadership and Management",
+        "Effective Communication",
+        "Teamwork",
+        "Problem Solving",
+        "Time Management",
+        "Critical Thinking"
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "items": [
+        {
+          "name": "Arabic",
+          "level": "Native"
+        },
+        {
+          "name": "English",
+          "level": "Good"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "I am available for work and new opportunities. Don't hesitate to contact me.",
+    "info": {
+      "email": "Email",
+      "phone": "Phone Number",
+      "location": "Location"
+    },
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "placeholders": {
+        "firstName": "Enter your first name",
+        "lastName": "Enter your last name",
+        "email": "Enter your email",
+        "subject": "Enter message subject",
+        "message": "Enter your message here..."
+      }
+    },
+    "social": "Social Media"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "language": {
+    "ar": "العربية",
+    "en": "English"
+  },
+  "common": {
+    "name": "Alaa Ibrahim",
+    "scroll": "Scroll",
+    "switch-to-english": "Switch to English",
+    "switch-to-arabic": "التبديل إلى العربية",
+    "light-mode": "Light Mode",
+    "dark-mode": "Dark Mode"
+  }
+}
