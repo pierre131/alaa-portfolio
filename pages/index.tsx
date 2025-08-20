@@ -17,19 +17,19 @@ export default function Home() {
         <title>{`علاء إبراهيم - ${'بورتفوليو احترافي'}`}</title>
         <meta name="description" content="علاء إبراهيم - محاسب ومحترف في إدارة الأعمال مع خبرة في العمل الإداري والتطوير" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/favicon.svg`} type="image/svg+xml" />
         
         {/* Open Graph */}
         <meta property="og:title" content="علاء إبراهيم - بورتفوليو احترافي" />
         <meta property="og:description" content="محاسب ومحترف في إدارة الأعمال مع خبرة في العمل الإداري والتطوير" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image" content={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/og-image.png`} />
         
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="علاء إبراهيم - بورتفوليو احترافي" />
         <meta name="twitter:description" content="محاسب ومحترف في إدارة الأعمال مع خبرة في العمل الإداري والتطوير" />
-        <meta name="twitter:image" content="/og-image.png" />
+        <meta name="twitter:image" content={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/og-image.png`} />
       </Head>
 
       <div className="min-h-screen bg-white dark:bg-gray-900">
